@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381257159038",
+    "project_id": "medifinder-bfc75",
+    "storage_bucket": "medifinder-bfc75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381257159038:android:b4e15b34eafd0d7c29e32f",
+        "android_client_info": {
+          "package_name": "com.example.medi_finder_user_home_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQSb1SED4P6xiTVEs5TjyPqsnaL3Rxs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381257159038:android:707ba1f7b353452629e32f",
+        "android_client_info": {
+          "package_name": "com.medifinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQSb1SED4P6xiTVEs5TjyPqsnaL3Rxs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
